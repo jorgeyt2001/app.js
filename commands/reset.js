@@ -10,7 +10,7 @@ module.exports.run = async (bot, message, args) => {
            message.react('✅')
                .then(message => bot.destroy())
                .then(message => bot.destroy())
-               .then(() => bot.login("NTQ4MTU5NjM4ODIyOTc3NTY2.XcQ6tw.UwEldLSr-iXLFFKrTMhVytfieAo"));
+               .then(() => bot.login("NjQ4MTkwMjI1NzU5MjA3NDU0.XdqoVQ.ainBjqYhVE0LgbZwwPo7RdqosWs"));
            message.channel.send("``[bot administrador rankeds] has successfully rebooted!``")
        }
     }

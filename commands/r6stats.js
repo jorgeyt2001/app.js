@@ -1,5 +1,5 @@
 const R6API = require('r6api.js');
-const r6 = new R6API('orantes404@gmail.com', 'Juanyt2001esp');
+
  
 const username = 'corito_4_.free';
 const id = await r6.getId('uplay', username).then(el => el[0].id);

@@ -17,7 +17,7 @@
     "discord.js": "^11.4.2",
     "express": "^4.17.1",
     "megadb": "^2.7.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.2.2",
     "ms": "^2.1.1",

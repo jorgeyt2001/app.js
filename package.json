@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "megadb": "^2.7.0",
     "minimist": "^1.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.2.2",
     "ms": "^2.1.1",
     "node-opus": "^0.3.2",
